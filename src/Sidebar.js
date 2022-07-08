@@ -9,7 +9,7 @@ function Sidebar({ notes, onAddNote, onDeletenote, activeNote, setActiveNote }) 
 
             <div className='app-sidebar-header'>
 
-                <h1>Notes</h1>
+                <h1>Note_X</h1>
 
                 <button onClick={onAddNote}>Add</button>
 
